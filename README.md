@@ -1,9 +1,3 @@
-Here is a **professional, clean, and complete GitHub `README.md`** structure for your **Terraform AWS VPC Project**.
-This is the same style used in real DevOps repositories — clean, modern, and easy for recruiters to understand.
-
-You can copy-paste this entire README directly into GitHub.
-
----
 
 # 🟦 **Terraform AWS VPC Project**
 
